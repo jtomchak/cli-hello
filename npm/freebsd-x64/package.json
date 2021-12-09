@@ -1,5 +1,5 @@
 {
-  "name": "cli-hello-freebsd-x64",
+  "name": "@jtomchak/cli-hello-freebsd-x64",
   "version": "0.1.0",
   "os": [
     "freebsd"

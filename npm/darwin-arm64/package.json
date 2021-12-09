@@ -1,5 +1,5 @@
 {
-  "name": "cli-hello-darwin-arm64",
+  "name": "@jtomchak/cli-hello-darwin-arm64",
   "version": "0.1.0",
   "os": [
     "darwin"

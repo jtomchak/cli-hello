@@ -1,5 +1,5 @@
 {
-  "name": "cli-hello-win32-arm64-msvc",
+  "name": "@jtomchak/cli-hello-win32-arm64-msvc",
   "version": "0.1.0",
   "os": [
     "win32"

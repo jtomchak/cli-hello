@@ -1,5 +1,5 @@
 {
-  "name": "cli-hello-linux-x64-gnu",
+  "name": "@jtomchak/cli-hello-linux-x64-gnu",
   "version": "0.1.0",
   "os": [
     "linux"
