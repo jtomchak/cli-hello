@@ -1,5 +1,5 @@
 {
-  "name": "cli-hello",
+  "name": "@jtomchak/cli-hello",
   "version": "0.1.0",
   "napi": {
     "name": "cli-hello",
