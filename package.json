@@ -1,6 +1,6 @@
 {
   "name": "cli-hello",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "napi": {
     "name": "cli-hello",
     "triples": {
@@ -17,7 +17,20 @@
       ]
     }
   },
+  "repository": "git@github.com:jtomchak/cli-hello.git",
   "license": "MIT",
+  "keywords": [
+    "napi-rs",
+    "NAPI",
+    "N-API",
+    "Rust",
+    "node-addon",
+    "node-addon-api"
+  ],
+  "files": [
+    "index.d.ts",
+    "index.js"
+  ],
   "dependencies": {
     "@node-rs/helper": "^1.2.1"
   },
@@ -35,17 +48,17 @@
     "version": "napi version"
   },
   "optionalDependencies": {
-    "cli-hello-win32-x64-msvc": "0.0.0",
-    "cli-hello-darwin-x64": "0.0.0",
-    "cli-hello-linux-x64-gnu": "0.0.0",
-    "cli-hello-darwin-arm64": "0.0.0",
-    "cli-hello-android-arm64": "0.0.0",
-    "cli-hello-linux-arm64-gnu": "0.0.0",
-    "cli-hello-linux-arm64-musl": "0.0.0",
-    "cli-hello-win32-arm64-msvc": "0.0.0",
-    "cli-hello-linux-arm-gnueabihf": "0.0.0",
-    "cli-hello-linux-x64-musl": "0.0.0",
-    "cli-hello-freebsd-x64": "0.0.0",
-    "cli-hello-win32-ia32-msvc": "0.0.0"
+    "cli-hello-win32-x64-msvc": "0.1.0",
+    "cli-hello-darwin-x64": "0.1.0",
+    "cli-hello-linux-x64-gnu": "0.1.0",
+    "cli-hello-darwin-arm64": "0.1.0",
+    "cli-hello-android-arm64": "0.1.0",
+    "cli-hello-linux-arm64-gnu": "0.1.0",
+    "cli-hello-linux-arm64-musl": "0.1.0",
+    "cli-hello-win32-arm64-msvc": "0.1.0",
+    "cli-hello-linux-arm-gnueabihf": "0.1.0",
+    "cli-hello-linux-x64-musl": "0.1.0",
+    "cli-hello-freebsd-x64": "0.1.0",
+    "cli-hello-win32-ia32-msvc": "0.1.0"
   }
 }
