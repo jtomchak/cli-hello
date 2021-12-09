@@ -48,17 +48,17 @@
     "version": "napi version"
   },
   "optionalDependencies": {
-    "@jtomchak/cli-hello-android-arm64": "0.1.0",
-    "@jtomchak/cli-hello-darwin-arm64": "0.1.0",
-    "@jtomchak/cli-hello-darwin-x64": "0.1.0",
-    "@jtomchak/cli-hello-freebsd-x64": "0.1.0",
-    "@jtomchak/cli-hello-linux-arm-gnueabihf": "0.1.0",
-    "@jtomchak/cli-hello-linux-arm64-gnu": "0.1.0",
-    "@jtomchak/cli-hello-linux-arm64-musl": "0.1.0",
-    "@jtomchak/cli-hello-linux-x64-gnu": "0.1.0",
-    "@jtomchak/cli-hello-linux-x64-musl": "0.1.0",
-    "@jtomchak/cli-hello-win32-arm64-msvc": "0.1.0",
-    "@jtomchak/cli-hello-win32-ia32-msvc": "0.1.0",
-    "@jtomchak/cli-hello-win32-x64-msvc": "0.1.0"
+    "@jtomchak/cli-hello-win32-x64-msvc": "0.2.1",
+    "@jtomchak/cli-hello-darwin-x64": "0.2.1",
+    "@jtomchak/cli-hello-linux-x64-gnu": "0.2.1",
+    "@jtomchak/cli-hello-darwin-arm64": "0.2.1",
+    "@jtomchak/cli-hello-android-arm64": "0.2.1",
+    "@jtomchak/cli-hello-linux-arm64-gnu": "0.2.1",
+    "@jtomchak/cli-hello-linux-arm64-musl": "0.2.1",
+    "@jtomchak/cli-hello-win32-arm64-msvc": "0.2.1",
+    "@jtomchak/cli-hello-linux-arm-gnueabihf": "0.2.1",
+    "@jtomchak/cli-hello-linux-x64-musl": "0.2.1",
+    "@jtomchak/cli-hello-freebsd-x64": "0.2.1",
+    "@jtomchak/cli-hello-win32-ia32-msvc": "0.2.1"
   }
 }
